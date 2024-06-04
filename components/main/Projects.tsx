@@ -12,7 +12,7 @@ const Projects = () => {
         </h1>
         <div className='h-full w-full flex flex-col md:flex-row gap-10 px-10'>
         <ProjectCard
-          src="/jobportal.png"
+          src="/Jobportal.png"
           title="Full Stack Job Portal "
           description="MERN Full Stack project created in the final year of my graduation."
           link='https://github.com/anantec'
